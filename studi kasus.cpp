@@ -1,4 +1,5 @@
 #include<iostream>
+#include<conio.h>
 using namespace std;
 int main(){
 	int pilihan,banyak,jumlah,total,tunai,kembalian,harga;
