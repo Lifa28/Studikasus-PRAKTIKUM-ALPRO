@@ -56,5 +56,7 @@ int main(){
 		kembalian = tunai - total ;
 		cout<<"    KEMBALIAN  : Rp.\t"<<kembalian<<endl;
 		cout<<"================================"<<endl;
+		cout<<"    INI TOKOKU MANA TOKOMU?     "<<endl;
+		cout<<"================================"<<endl;
 	return 0;
 }
